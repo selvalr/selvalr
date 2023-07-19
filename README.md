@@ -5,7 +5,7 @@
 
 - 👨🏽‍🎓 My interest is in Web development
 
-- I have experience of working in HTML, CSS, JavaScript and Tailwind CSS, React Projects computer
+- I have experience of working in HTML, CSS, JavaScript and React Projects computer
 
 - 👨‍💻 My projects are available at My [portfolio](https://devvikram-a5281.web.app/)
 
