@@ -1,42 +1,80 @@
-<h1 align="center">Hi 👋, I'm Selvamanan R</h1>
-<h3 align="center">A passionate Self-taught FullStack Developer, I build modern-day UI components to improve application performance</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
 
-- 👨🏽‍🎓 My interest is in Web development
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/selva_lr)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/selvamanan-r-72b187213/)
 
-- I have experience of working in HTML, CSS, JavaScript and React Projects computer
 
-- 👨‍💻 My projects are available at My [portfolio](https://evvikram-a5281.web.app/)
+
+<h1 align="center">Hey 👋, I'm <span style="color: rgb(51,102,204)">
+Selvamanan R
+</span>
+ 👨‍💻</h1>
+<h2 align="center">A passionate Self-taught FullStack Developer, I build modern-day UI components to improve application performance</h2>
+
+# 💫 About Me:
+
+- <h4>🌱 I’m currently learning **MERN STACK**</h4>
+
+- <h4>👨🏽‍🎓 My interest is in Web development</h4>
+
+- <h4>🧠 I have experience of working in HTML, CSS, JavaScript and React Projects computer</h4>
+
+- 👨‍💻 My projects are available at My [portfolio]()
 
 - 📝 I regularly Post on [twitter](https://twitter.com/selva_lr)
 
-- 💬 Ask me about **React.js, JavaScript,HTML,CSS,NodeJS,GitHub,MongoDB**
+- <h4>💬 Ask me about **React.js, JavaScript,HTML,CSS,NodeJS,GitHub,MongoDB**</h4>
 
-- 📫 Reach me on **selvamanan369@gmail.com**
+-  ✉️ Reach me on **selvamanan369@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/selva_lr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selva_lr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/selvamanan-r-72b187213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selvamanan-r-72b187213/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-### Github Data
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=selvalr&show_icons=true&locale=en&layout=compact" alt="selvalr" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=selvalr&show_icons=true&locale=en" alt="akilans" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selvalr&" alt="selvalr" /></p>
-
-### Connect With me
+## 🌐 Connect with me::
 
 <p align="center">
+<a href="https://twitter.com/selva_lr"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-twitter-256.png" width="60" height="60" alt="LinkedIn"></a>
+  &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/selvamanan-r-72b187213/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" width="60" height="60" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a href="htt://akilans.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" height="70" alt="Profile"></a>
+  <a href="htt://selvalr.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" height="70" alt="Profile"></a>
   &nbsp; &nbsp;
+  
+    
 </p>
+
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# 🔑 Tools:
+
+
+<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<img src="./vscode.svg" alt= “” width="40" height="40">
+</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=selvalr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=selvalr&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=selvalr&theme=radical&hide_border=false)<br/>
+
+
+
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=selvalr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+
+
+
+
+
+
