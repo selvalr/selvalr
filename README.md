@@ -5,11 +5,14 @@
 
 
 
+
 <h1 align="center">Hey 👋, I'm <span style="color: rgb(51,102,204)">
 Selvamanan R
 </span>
  👨‍💻</h1>
-<h2 align="center">A passionate Self-taught FullStack Developer, I build modern-day UI components to improve application performance</h2>
+ 
+ ### <p align="center">ReactJS |  NodeJS | ExpressJS | MongoDB</p>
+<h2 align="center">A passionate Self-taught FullStack Developer</h2>
 
 # 💫 About Me:
 
@@ -51,7 +54,7 @@ Selvamanan R
 
 <p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<img src="./vscode.svg" alt= “” width="40" height="40">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 
