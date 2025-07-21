@@ -35,7 +35,7 @@ Selvamanan R
 
 - <h4>💬 Ask me about **React.js, JavaScript,HTML,CSS,NodeJS,GitHub,MongoDB**</h4>
 
-#### ✉️ Reach me at [selvamanan369@gmail.com](mailto:selvamanan369@gmail.com)
+- #### ✉️ Reach me at [selvamanan369@gmail.com](mailto:selvamanan369@gmail.com)
 
 ## 🌐 Connect with me::
 
