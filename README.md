@@ -19,23 +19,23 @@ Selvamanan R
 
 - <h4>🔄 State Management: Knowledgeable in Redux for large-scale React applications.</h4>
 
-- 📝 Version Control: Git/GitHub proficiency.
+- <h4>📝 Version Control: Git/GitHub proficiency.</h4>
 
-- ☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.
+- <h4>☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.</h4>
 
-- ✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
+- <h4>✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.</h4>
 
-- 🔍 Problem-solving: Strong debugging skills.
+- <h4>🔍 Problem-solving: Strong debugging skills.</h4>
 
-- 💬 Communication: Effective team collaboration.
+- <h4>💬 Communication: Effective team collaboration.</h4>
 
-- 👨‍💻 My projects are available at My [portfolio](https://selvalr.github.io/)
+- <h4>👨‍💻 My projects are available at My [portfolio](https://selvalr.github.io/)</h4>
 
-- 📝 I regularly Post on [twitter](https://twitter.com/selva_lr)
+- <h4>📝 I regularly Post on [twitter](https://twitter.com/selva_lr)</h4>
 
 - <h4>💬 Ask me about **React.js, JavaScript,HTML,CSS,NodeJS,GitHub,MongoDB**</h4>
 
-- ✉️ Reach me on **selvamanan369@gmail.com**
+- <h4>✉️ Reach me on **selvamanan369@gmail.com** </h4>
 
 ## 🌐 Connect with me::
 
