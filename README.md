@@ -47,7 +47,7 @@ Selvamanan R
   <a href="mailto:selvamanan369@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" height="60" alt="Email Me" />
   </a>
-&nbsp; &nbsp;
+
   <a href="https://wa.me/919585988369" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="60" height="60" alt="WhatsApp Chat" />
 </a>
