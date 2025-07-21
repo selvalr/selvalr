@@ -49,7 +49,6 @@ Selvamanan R
   <a href="https://wa.me/919585988369" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="70" height="70" alt="WhatsApp Chat" />
 </a>
-  &nbsp; &nbsp;
   
     
 </p>
