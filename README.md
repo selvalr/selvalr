@@ -44,7 +44,9 @@ Selvamanan R
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/selvamanan-r-72b187213/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" width="60" height="60" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a href="htt://selvalr.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" height="70" alt="Profile"></a>
+  <a href="mailto:selvamanan369@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email Me" />
+  </a>
   &nbsp; &nbsp;
   <a href="https://wa.me/919585988369" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="70" height="70" alt="WhatsApp Chat" />
