@@ -47,7 +47,7 @@ Selvamanan R
   <a href="htt://selvalr.github.io/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70" height="70" alt="Profile"></a>
   &nbsp; &nbsp;
   <a href="https://wa.me/919585988369" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="70" height="70" alt="WhatsApp Chat" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="70" height="70" alt="WhatsApp Chat" />
 </a>
   &nbsp; &nbsp;
   
